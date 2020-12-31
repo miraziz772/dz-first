@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #000 ;
+}
+h1{
+    color: white;
+    font-size: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
